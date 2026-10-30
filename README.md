@@ -4,6 +4,12 @@ A conversational video-search application with timestamped clips and an annotati
 
 **Technologies:** Python · Streamlit · FFmpeg · multimodal RAG
 
+## Academic context and contribution
+
+Developed for the **UTS 36105 iLab capstone, Group 15, Semester 1 2026**.
+
+The video-search application is a team deliverable. **Khanh Hoang Nguyen's main contribution was automatic, annotation-grounded evaluation**: structuring questions and evaluation against annotated video events, recording quality and timing fields, and supporting repeatable analysis and reporting. The upload, retrieval and conversational application is included with its original team and upstream credits.
+
 ## What is included
 
 - Video upload, conversational questions and downloadable timestamped clips.
