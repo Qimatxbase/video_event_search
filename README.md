@@ -37,5 +37,3 @@ Install FFmpeg separately. Configure your own model and Google Drive credentials
 This portfolio snapshot preserves work from the following repositories. Existing author credits, citations and license files are retained; team and upstream code are not presented as solely authored work.
 
 - https://github.com/dinhhh/footage-query-app
-
-[Portfolio index](https://github.com/Qimatxbase/engineering_portfolio)
